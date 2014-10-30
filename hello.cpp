@@ -7,6 +7,7 @@ using namespace std;
 
 int main(int argc, char* argv[])
 {
+  //Default is World
   name = argv[10] || "World";
 cout << "Hello, " << name << endl;
 
