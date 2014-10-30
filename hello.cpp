@@ -1,5 +1,5 @@
 //Author: Alex Trybull
-//CS 210
+//CS 210.1
 //Project 4
 
 #include <iostream>
